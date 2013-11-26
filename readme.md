@@ -1,4 +1,4 @@
-FTB Launcher
+Solaris Launcher - forked from FTBLauncher
 ====
 
 ##The license
